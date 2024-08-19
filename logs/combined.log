@@ -1,0 +1,41 @@
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:35:49.122Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:36:27.089Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:39:19.715Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:39:40.039Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:40:11.517Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:40:21.208Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:46:06.586Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:46:24.393Z"}
+{"level":"error","message":"Error al conectar a la base de datos: options usefindandmodify, usecreateindex are not supported","timestamp":"2024-08-19T21:46:41.301Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T21:48:51.132Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T21:49:10.842Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T21:49:23.003Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T21:49:49.953Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T21:52:05.032Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T21:52:28.622Z"}
+{"level":"info","message":"[2024-08-19T21:54:03.405Z] POST /api/v1/user/register - ::1","timestamp":"2024-08-19T21:54:03.405Z"}
+{"level":"info","message":"[2024-08-19T21:55:10.804Z] POST /api/v1/user/register - ::1","timestamp":"2024-08-19T21:55:10.804Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T21:56:14.932Z"}
+{"level":"info","message":"[2024-08-19T21:56:21.030Z] POST /api/v1/user/register - ::1","timestamp":"2024-08-19T21:56:21.030Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T21:58:01.602Z"}
+{"level":"info","message":"[2024-08-19T21:59:07.387Z] POST /api/v1/user/register - ::1","timestamp":"2024-08-19T21:59:07.388Z"}
+{"level":"error","message":"Acceso denegado. No se proporcionó token.","timestamp":"2024-08-19T21:59:07.390Z"}
+{"level":"info","message":"[2024-08-19T21:59:30.389Z] POST /api/v1/user/login - ::1","timestamp":"2024-08-19T21:59:30.389Z"}
+{"level":"error","message":"Error en el inicio de sesión: User is not defined","timestamp":"2024-08-19T21:59:30.390Z"}
+{"level":"error","message":"POST /api/v1/user/login - User is not defined","timestamp":"2024-08-19T21:59:30.392Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T22:00:12.546Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T22:00:29.775Z"}
+{"level":"info","message":"[2024-08-19T22:00:33.999Z] POST /api/v1/user/login - ::1","timestamp":"2024-08-19T22:00:33.999Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T22:03:21.362Z"}
+{"level":"info","message":"[2024-08-19T22:08:14.685Z] POST /api/v1/user/register - ::1","timestamp":"2024-08-19T22:08:14.685Z"}
+{"level":"error","message":"Acceso denegado. No se proporcionó token.","timestamp":"2024-08-19T22:08:14.687Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T22:08:42.802Z"}
+{"level":"info","message":"[2024-08-19T22:08:46.354Z] POST /api/v1/user/register - ::1","timestamp":"2024-08-19T22:08:46.354Z"}
+{"level":"info","message":"[2024-08-19T22:09:01.100Z] POST /api/v1/user/register - ::1","timestamp":"2024-08-19T22:09:01.100Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T22:09:09.346Z"}
+{"level":"info","message":"[2024-08-19T22:09:24.773Z] GET /api/v1/tor/get-all-nodes/ - ::1","timestamp":"2024-08-19T22:09:24.773Z"}
+{"level":"info","message":"[2024-08-19T22:09:41.914Z] GET /api/v1/tor/get-all-nodes/ - ::1","timestamp":"2024-08-19T22:09:41.914Z"}
+{"level":"error","message":"Error al obtener las ips: Request failed with status code 403","timestamp":"2024-08-19T22:09:42.459Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: Error al obtener las IPs de la fuente externa","timestamp":"2024-08-19T22:09:42.460Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - Error al obtener las IPs de la fuente externa","timestamp":"2024-08-19T22:09:42.461Z"}
+{"level":"info","message":"Conexión a la base de datos exitosa","timestamp":"2024-08-19T22:13:04.620Z"}

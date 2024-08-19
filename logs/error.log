@@ -1,0 +1,16 @@
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:35:49.122Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:36:27.089Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:39:19.715Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:39:40.039Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:40:11.517Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:40:21.208Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:46:06.586Z"}
+{"level":"error","message":"Error al conectar a la base de datos: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2024-08-19T21:46:24.393Z"}
+{"level":"error","message":"Error al conectar a la base de datos: options usefindandmodify, usecreateindex are not supported","timestamp":"2024-08-19T21:46:41.301Z"}
+{"level":"error","message":"Acceso denegado. No se proporcionó token.","timestamp":"2024-08-19T21:59:07.390Z"}
+{"level":"error","message":"Error en el inicio de sesión: User is not defined","timestamp":"2024-08-19T21:59:30.390Z"}
+{"level":"error","message":"POST /api/v1/user/login - User is not defined","timestamp":"2024-08-19T21:59:30.392Z"}
+{"level":"error","message":"Acceso denegado. No se proporcionó token.","timestamp":"2024-08-19T22:08:14.687Z"}
+{"level":"error","message":"Error al obtener las ips: Request failed with status code 403","timestamp":"2024-08-19T22:09:42.459Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: Error al obtener las IPs de la fuente externa","timestamp":"2024-08-19T22:09:42.460Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - Error al obtener las IPs de la fuente externa","timestamp":"2024-08-19T22:09:42.461Z"}
