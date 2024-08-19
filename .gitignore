@@ -1,4 +1,4 @@
 /node_modules
 /src/.env
-/api.http
+/src/api.http
 /logs
