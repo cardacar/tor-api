@@ -13,7 +13,7 @@ El aplicativo esta configurado para correr con docker por lo cual para la ejecuc
 docker-compose up --build -d
 
 ```
-## aws y azure
+## aws
 
 Acontinuacion se explica como se realizaria un despliegue en la nube de aws
 
