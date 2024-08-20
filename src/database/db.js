@@ -1,4 +1,5 @@
 import logger from "../utils/logger.util.js";
+import initUsers from "../utils/init.utils.js";
 import mongoose from "mongoose";
 
 //Conexion a la base de datos, es una funcion asincronica ya que toca esperar
@@ -10,6 +11,7 @@ import mongoose from "mongoose";
   try {
     //me conecto a mongodb con mongoose
     await mongoose.connect(mongoUri);
+    await initUsers();
     logger.info("Conexión a la base de datos exitosa");
   } catch (err) {
     logger.error("Error al conectar a la base de datos: " + err.message);
