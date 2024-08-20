@@ -14,3 +14,42 @@
 {"level":"error","message":"Error al obtener las ips: Request failed with status code 403","timestamp":"2024-08-19T22:09:42.459Z"}
 {"level":"error","message":"Error al obtener las IPs de TOR: Error al obtener las IPs de la fuente externa","timestamp":"2024-08-19T22:09:42.460Z"}
 {"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - Error al obtener las IPs de la fuente externa","timestamp":"2024-08-19T22:09:42.461Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: IpCache is not defined","timestamp":"2024-08-19T22:53:33.824Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: IpCache is not defined","timestamp":"2024-08-19T22:53:33.824Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - IpCache is not defined","timestamp":"2024-08-19T22:53:33.826Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: Request failed with status code 403","timestamp":"2024-08-19T22:54:44.959Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: IpCache is not defined","timestamp":"2024-08-19T22:54:44.960Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - IpCache is not defined","timestamp":"2024-08-19T22:54:44.961Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: Request failed with status code 403","timestamp":"2024-08-19T22:55:20.576Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-19T22:55:20.579Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-19T22:55:20.581Z"}
+{"level":"error","message":"Acceso denegado. No se proporcionó token.","timestamp":"2024-08-19T22:55:47.083Z"}
+{"level":"error","message":"Error de autenticación: invalid signature","timestamp":"2024-08-19T22:56:10.830Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: ipCache validation failed: ip: Path `ip` is invalid (2001:0470:0001:0908:0000:0000:0000:9001).","timestamp":"2024-08-19T23:57:21.061Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-19T23:57:21.150Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-19T23:57:21.186Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: Request failed with status code 403","timestamp":"2024-08-19T23:59:39.592Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-19T23:59:39.595Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-19T23:59:39.596Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: ipCache validation failed: ip: Path `ip` is invalid (2001:0470:0001:0908:0000:0000:0000:9001).","timestamp":"2024-08-20T00:22:33.732Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-20T00:22:33.781Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-20T00:22:33.782Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: Request failed with status code 403","timestamp":"2024-08-20T00:25:10.324Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-20T00:25:10.327Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - No se pudo obtener IPs desde la API ni existen datos en caché","timestamp":"2024-08-20T00:25:10.328Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: Request failed with status code 403","timestamp":"2024-08-20T00:28:14.607Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: cachedIps is not defined","timestamp":"2024-08-20T00:28:14.608Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - cachedIps is not defined","timestamp":"2024-08-20T00:28:14.608Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: Request failed with status code 403","timestamp":"2024-08-20T00:29:45.028Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: cachedIps is not defined","timestamp":"2024-08-20T00:29:45.029Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - cachedIps is not defined","timestamp":"2024-08-20T00:29:45.030Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: Request failed with status code 403","timestamp":"2024-08-20T00:30:13.350Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: cachedIps is not defined","timestamp":"2024-08-20T00:30:13.352Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - cachedIps is not defined","timestamp":"2024-08-20T00:30:13.353Z"}
+{"level":"error","message":"Error al obtener IPs de la API externa: Cannot read properties of undefined (reading 'trim')","timestamp":"2024-08-20T00:33:57.710Z"}
+{"level":"error","message":"Error al obtener las IPs de TOR: cachedIps is not defined","timestamp":"2024-08-20T00:33:57.711Z"}
+{"level":"error","message":"GET /api/v1/tor/get-all-nodes/ - cachedIps is not defined","timestamp":"2024-08-20T00:33:57.712Z"}
+{"level":"error","message":"Acceso denegado. No se proporcionó token.","timestamp":"2024-08-20T00:36:41.849Z"}
+{"level":"error","message":"Error al agregar la IP: E11000 duplicate key error collection: tor-api.whiteips index: ip_1 dup key: { ip: \"102.130.113.9\" }","timestamp":"2024-08-20T00:42:58.557Z"}
+{"level":"error","message":"POST /api/v1/tor/add-ip/ - E11000 duplicate key error collection: tor-api.whiteips index: ip_1 dup key: { ip: \"102.130.113.9\" }","timestamp":"2024-08-20T00:42:58.558Z"}
+{"level":"error","message":"Acceso denegado. Rol no autorizado.","timestamp":"2024-08-20T00:43:07.137Z"}

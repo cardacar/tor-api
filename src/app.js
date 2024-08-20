@@ -14,7 +14,7 @@ const app = express()
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename);
 
-dotenv.config({path: path.join(__dirname, '', '.env')});
+dotenv.config({path: path.join(__dirname, '..', '.env')});
 
 app.disable('x-powered-by') //Se deshabilita el header para evitar fugas de información
 
