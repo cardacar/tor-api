@@ -42,7 +42,6 @@ export const getAllNodes = async () => {
     logger.info('IPs recuperadas y almacenadas desde la API externa');
     return ipList;
   } catch (error) {
-    console.log(error)
     logger.error('Error al obtener IPs de la API externa: ' + error.message);
 
     // Si la API no está disponible y la base de datos estaba vacía, lanzar un error
